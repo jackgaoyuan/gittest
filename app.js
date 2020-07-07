@@ -1,5 +1,5 @@
 /*eslint-disable */
-const name = "qa change name"
-const year = 'master year'
+const name = "master change name"
+const year = 'qa change year'
 
 const qa = "qa"
