@@ -1,5 +1,5 @@
 /*eslint-disable */
-const name = "git "
+const name = 'qa change name'
 const year = 'qa year'
 
 const qa = "qa branch"
