@@ -2,6 +2,6 @@
 const name = "master name "
 const year = 'master year'
 
-const qa = "qa branch"
+const branch = "master branch"
 
 const price = 'master pricez'
