@@ -4,4 +4,4 @@ const year = 'qa change year'
 
 const qa = "qa branch"
 
-const price = 'price'
+const price = 'qa change pricez'
