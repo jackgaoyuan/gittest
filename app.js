@@ -1,6 +1,6 @@
 /*eslint-disable */
-const name = "master name "
-const year = 'master year'
+const name = "qa name"
+const year = 'qa year'
 
 const branch = "master branch"
 
