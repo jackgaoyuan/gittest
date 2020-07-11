@@ -1,7 +1,7 @@
 /*eslint-disable */
-const name = "git "
-const year = 'master change year'
+const name = "master name "
+const year = 'master year'
 
 const qa = "qa branch"
 
-const price = 'qa change pricez'
+const price = 'master pricez'
