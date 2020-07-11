@@ -1,6 +1,6 @@
 /*eslint-disable */
 const name = "git "
-const year = 'qa year'
+const year = 'master change year'
 
 const qa = "qa branch"
 
