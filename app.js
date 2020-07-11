@@ -1,5 +1,5 @@
 /*eslint-disable */
-const name = "my qa name"
+const name = "master false"
 const year = 'qa change year'
 
 const qa = "qa branch"
